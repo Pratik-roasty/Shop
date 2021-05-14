@@ -1,0 +1,312 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+.hello{
+  color: #f7a440;
+  font-family: 'Dancing Script', cursive;
+  font-size: 7rem;
+}
+h2{
+  color: #f7a440;
+  font-family: 'Raleway', sans-serif;
+}
+a{
+  text-decoration: none;
+}
+p{
+  margin: 0;
+  line-height: 2rem;
+}
+.brand{
+  position: relative;
+  padding-top: 45rem;
+}
+.welcome{
+  background-color: #f0ebcc;
+  position: relative;
+  padding-top: 12rem;
+  padding-bottom: 12rem;
+}
+.enter{
+  background-color: #f0ebcc;
+  padding-top: 8rem;
+  position: relative;
+  padding-bottom: 8rem;
+
+}
+.topBrands{
+  position: absolute;
+  top: 300px;
+  bottom: 300px;
+  left: 350px;
+  right: 350px;
+  font-size: 4rem;
+  font-family: 'Raleway', sans-serif;
+}
+.gucci{
+  top: 200px;
+  left: 100px;
+  position: absolute;
+  border-radius: 50px;
+  height: 70px;
+}
+.adidas{
+  left: 100px;
+  top: 50px;
+  position: absolute;
+  border-radius: 50px;
+  height: 70px;
+}
+.hm{
+    top: 400px;
+    left: 100px;
+    position: absolute;
+    border-radius: 50px;
+    height: 70px;
+}
+.hermes{
+  top: 50px;
+  right: 50px;
+  position: absolute;
+  border-radius: 50px;
+  height: 70px;
+}
+.rolex{
+  position: absolute;
+  top:50px;
+  right: 400px;
+  border-radius: 50px;
+  height: 70px;
+}
+.louis{
+  position: absolute;
+  top: 200px;
+  right: 50px;
+  border-radius: 50px;
+  height: 70px;
+}
+.puma{
+  position: absolute;
+  height: 100px;
+  border-radius: 50px;
+  left: 500px;
+  top: 50px;
+}
+.nike{
+  position: absolute;
+  height: 70px;
+  border-radius: 50px;
+  top: 400px;
+  right: 50px;
+}
+.ua{
+  position: absolute;
+  height: 70px;
+  border-radius: 50px;
+  bottom: 50px;
+  left: 100px;
+}
+.rayban{
+  position: absolute;
+  height: 70px;
+  bottom: 50px;
+  left: 350px;
+  border-radius: 50px;
+}
+.levis{
+  position: absolute;
+  height: 70px;
+  bottom: 50px;
+  left: 700px;
+  border-radius: 50px;
+}
+.raymond{
+  position: absolute;
+  height: 70px;
+  bottom: 50px;
+  right: 250px;
+  border-radius: 50px;
+}
+.levis{
+  position: absolute;
+  height: 70px;
+  bottom: 50px;
+  right: 50px;
+  border-radius: 50px;
+}
+.armani{
+  position: absolute;
+  height: 70px;
+  bottom: 50px;
+  right: 50px;
+  border-radius: 50px;
+}
+.Main{
+  position: absolute;
+  left: 41.87rem;
+  bottom: 3.75rem;
+  font-size: 2rem;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  padding: 10px 40px 10px 40px;
+  border-style: solid;
+  border-radius: 10px;
+  border-color: #f7a440;
+}
+.Main:hover{
+  position: absolute;
+  background-color: #f7a440;
+  color: white;
+  left: 41.87rem;
+  bottom: 3.75rem;
+  font-size: 2rem;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  padding: 10px 40px 10px 40px;
+  border-style: solid;
+  border-radius: 10px;
+}
+.Social{
+  height: 120px;
+  position: relative;
+  padding: 50px 30px;
+}
+.footer{
+  font-size: 1.5rem;
+  padding-right: 30px;
+  position: relative;
+  text-decoration: none;
+  color: #a0937d;
+}
+.footer:hover{
+  font-size: 1.5rem;
+  padding-right: 30px;
+  position: relative;
+  text-decoration: none;
+  color: #f7a440;
+}
+.foot{
+  position: relative;
+  top: 30px;
+  font-size: 0.75rem;
+}
+.warn{
+  position: absolute;
+  bottom: 2px;
+  left: 350px;
+}
+
+/* MAIN*/
+
+.top-bar{
+  position: absolute;
+  width: 95rem;
+  background-color: #0061a8;
+  height: 4rem;
+}
+.type{
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  top: 1.25rem;
+  left: 18rem;
+  position: relative;
+  margin-right: 2.5rem;
+  margin-top: 0.313rem;
+  padding: 0.625rem 1.875rem 16px 1.875rem;
+  font-size: 1rem;
+  border-radius: 0.625rem;
+
+  background-color: #150e56;
+  color: white;
+}
+.type:hover{
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  top: 1.25rem;
+  left: 18.75rem;
+  position: relative;
+  margin-right: 2.5rem;
+  margin-top: 0.313rem;
+  padding: 1.25rem 1.875rem 1.625rem 1.875rem;
+  background-color: white;
+  color: #150e56;
+}
+.sign{
+  position: absolute;
+  right: 1rem;
+  border-radius: 0.938rem;
+  border-style: none;
+  padding: 0.75rem 1.875rem 0.75rem 1.875rem;
+  top: 0.625rem;
+  color: white;
+  background-color: #ce1212;
+  font-family: 'Domine', serif;
+}
+.logo{
+  height: 4rem;
+  position: absolute;
+  width: 100px;
+  left: 0;
+}
+.companyname{
+  position: relative;
+  top: 4rem;
+  height: 400px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: #f0ebcc;
+  font-size: 3rem;
+  font-family: 'Tangerine', cursive;
+}
+.compname{
+  position: relative;
+  bottom: 100px;
+  left: 350px;
+}
+.tag{
+  position: relative;
+  bottom: 70px;
+  left: 350px;
+}
+.promo{
+  position: relative;
+  bottom: 300px;
+  right: 350px;
+}
+.style{
+  position: relative;
+  background-color: #faf3f3;
+  padding-top: 250px;
+  padding-bottom: 200px;
+  font-family: 'Open Sans', sans-serif;
+}
+.uniq{
+  padding-top: 200px;
+  padding-bottom: 120px;
+  font-size: 2rem;
+}
+.Cloth{
+  margin-right: 60px;
+  text-align: center;
+  position: relative;
+  border-style: solid;
+  border-color: #ffc288;
+  color: #ffc288;
+  border-width: 5px 20px 10px 0;
+  border-radius: 10px;
+  padding: 5rem 2rem;
+  font-size: 1.5rem;
+}
+.Cloth:hover{
+  margin-right: 60px;
+  color: #ffc288;
+  text-align: center;
+  position: relative;
+  border-style: solid;
+  border-radius: 10px;
+  border-color: #ffc288;
+  border-width: 5px 20px 10px 0;
+  padding: 8rem 7rem;
+  font-size: 2rem;
+}
